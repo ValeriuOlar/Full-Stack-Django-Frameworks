@@ -1,4 +1,4 @@
-# Full-Stack-Frameworks-with-Django-Milestone-Project Dev title:
+# Full-Stack-Django
 ## Demo
 A live demo can be found [here]("Here goes the webproject link")  
 ## UX
